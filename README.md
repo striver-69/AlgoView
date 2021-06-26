@@ -1,13 +1,14 @@
 # AlgoView
 
 This project contains visual representation of various algorithms.  
+  
 These algorithms include  
 -> Sorting Algorithms  
-    - Bubble Sort  
-    - Selection Sort  
-    - Merge Sort  
-    - Quick Sort  
+&nbsp;&nbsp;- Bubble Sort  
+&nbsp;&nbsp;- Selection Sort  
+&nbsp;&nbsp;- Merge Sort  
+&nbsp;&nbsp;- Quick Sort  
 -> Graph Algorithms  
-    - BFS  
-    - DFS  
+&nbsp;&nbsp;- BFS  
+&nbsp;&nbsp;- DFS  
 -> Tower of Hanoi  
